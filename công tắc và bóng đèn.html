@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+</head>
+<body>
+<script>
+let ElectricLamp = function () {
+    this.Status= function (switchbutton) {
+       return switchbutton.getstatus();
+
+    };
+
+    this.TurnOnOff = function () {
+        return this.Status;
+    };
+
+}
+let SwitchButton = function () {
+    this.setStatus = function (status) {
+       this.Status =status;
+    };
+    this.getstatus =function () {
+   return this.Status;
+    };
+
+}
+let bongden = new ElectricLamp();
+let congtac = new SwitchButton();
+for (let i=0;i<5;i++) {
+    congtac.setStatus(false);
+    console.log(bongden.Status(congtac));
+    congtac.setStatus(true);
+    console.log(bongden.Status(congtac));
+}
+</script>
+</body>
+</html>
