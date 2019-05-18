@@ -8,30 +8,25 @@
 <script>
 let ElectricLamp = function () {
     this.Status= function (switchbutton) {
-       return switchbutton.getstatus();
-
-    };
-
-    this.TurnOnOff = function () {
-        return this.Status;
+        this.switch = switchbutton;
+        return this.switch.getstatus();
     };
 
 }
 let SwitchButton = function () {
-    this.setStatus = function (status) {
-       this.Status =status;
+    this.TurnOnOff =function (status) {
+        this.Status =status;
     };
     this.getstatus =function () {
    return this.Status;
     };
-
 }
 let bongden = new ElectricLamp();
 let congtac = new SwitchButton();
 for (let i=0;i<5;i++) {
-    congtac.setStatus(false);
+    congtac.TurnOnOff(false);
     console.log(bongden.Status(congtac));
-    congtac.setStatus(true);
+    congtac.TurnOnOff(true);
     console.log(bongden.Status(congtac));
 }
 </script>

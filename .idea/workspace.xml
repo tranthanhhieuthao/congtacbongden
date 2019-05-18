@@ -11,6 +11,7 @@
       <change afterPath="$PROJECT_DIR$/../Phát triển game lái xe/Phát triển game lái xe.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Game đơn giản - di chuyển đối tượng/[Bài tập] Game đơn giản - di chuyển đối tượng.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Game đơn giản - di chuyển đối tượng/[Bài tập] Game đơn giản - di chuyển đối tượng.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Phát triển game lái xe/[Bài tập] Phát triển game lái xe.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Xây dựng lớp mô tả Temperature/.idea/[Bài tập] Xây dựng lớp mô tả Temperature.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Xây dựng lớp mô tả Temperature/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../[Bài tập] Xây dựng lớp mô tả Temperature/.idea/modules.xml" afterDir="false" />
@@ -44,7 +45,6 @@
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/công tắc và bóng đèn.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Chuyển đổi giữa feet và meter/Chuyển đổi giữa feet và meter.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Chuyển đổi giữa feet và meter/Chuyển đổi giữa feet và meter.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Hàm kiểm tra số nguyên tố/Hàm kiểm tra số nguyên tố.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Hàm kiểm tra số nguyên tố/Hàm kiểm tra số nguyên tố.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Kiểm tra từ đối xứng/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kiểm tra từ đối xứng/.idea/workspace.xml" afterDir="false" />
@@ -110,6 +110,9 @@
       <change beforePath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Hình Tròn/[Thực hành] Xây dựng lớp Hình Tròn.js" beforeDir="false" afterPath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Hình Tròn/[Thực hành] Xây dựng lớp Hình Tròn.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitapcodegym" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapcodegym" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitaptientengay3" beforeDir="false" afterPath="$PROJECT_DIR$/../baitaptientengay3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/công tắc và bóng đèn.html" beforeDir="false" afterPath="$PROJECT_DIR$/công tắc và bóng đèn.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/demo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/demo.js" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/demo.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demotiktactoe/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demotiktactoe/.idea/workspace.xml" afterDir="false" />
@@ -144,8 +147,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/công tắc và bóng đèn.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="488">
-              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="215">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -160,7 +163,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -236,18 +239,20 @@
       <option name="presentableId" value="Default" />
       <updated>1557938316667</updated>
       <workItem from="1557938317808" duration="1994000" />
-      <workItem from="1557993422523" duration="5745000" />
+      <workItem from="1557993422523" duration="6113000" />
+      <workItem from="1558079780079" duration="1117000" />
+      <workItem from="1558190373410" duration="1924000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7739000" />
+    <option name="totallyTimeSpent" value="11148000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24960339" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960339" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -259,7 +264,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3299435" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -272,8 +277,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/công tắc và bóng đèn.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="488">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="215">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
         </state>
       </provider>
     </entry>
